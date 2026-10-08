@@ -1,0 +1,11 @@
+// This has been provided by the leetcode itself
+
+package week3.merge_two_sorted_lists;
+
+public class ListNode {
+    int val;
+    ListNode next;
+    ListNode() {}
+    ListNode(int val) { this.val = val; }
+    ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+}
